@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project. 2021-2-10 Study Start by hwacdx.
 
 ## Getting Started
 
